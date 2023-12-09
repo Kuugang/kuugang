@@ -1,4 +1,4 @@
-> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="dogo.png" align="left" width="200"></a>I'm super shy, super shy
+> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="dogo.png" style = "clip-path: circle();float: left; margin-right: 20px" width="200"></a>I'm super shy, super shy
 
 > But wait a minute while I make you mine make you mine
 
