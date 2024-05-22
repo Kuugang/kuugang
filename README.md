@@ -1,5 +1,5 @@
-<div style = "opacity: 0.7">
-<a href="" target="_blank">
-    <img src="download.gif">
-</a>
-<div>
+<div style="display: flex; justify-content: center; align-items: center">
+    <a href="#" target="_blank">
+        <img src="download.gif" alt="Centered Image">
+    </a>
+</div>
